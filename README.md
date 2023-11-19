@@ -26,3 +26,7 @@ Run the Streamlit app
 ```bash
 streamlit run app.py
 ```
+
+## Example
+
+![Example](example.png)
